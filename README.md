@@ -8,7 +8,7 @@ I like projects where software has to do something concrete: collect and clean d
 
 - **Python:** backend services, web scraping, automation, data processing and AI-assisted workflows.
 - **Delivery:** Docker, Docker Compose, nginx, VPS administration, DNS and network troubleshooting.
-- **Hardware:** ESP32, LoRa, UWB, electronics, sensors, 3D printing and small RC/DIY projects.
+- **Hardware:** ESP32, LoRa, UWB, electronics, rocket engines, sensors, 3D printing and small RC/DIY projects.
 - **Tools:** FastAPI, Flask, Playwright, Selenium, Beautiful Soup, OpenCV, PostgreSQL, Redis and Gemini.
 
 I am still early in my professional career, so I do not pretend to know everything. What I do bring is curiosity, persistence and the habit of following a problem beyond one layer of the stack.
